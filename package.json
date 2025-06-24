@@ -12,9 +12,13 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.10",
     "@vitejs/plugin-react": "^4.5.2",
+    "express": "^5.1.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "tailwindcss": "^4.1.10"
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "tailwindcss": "^4.1.10",
+    "yamljs": "^0.3.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
